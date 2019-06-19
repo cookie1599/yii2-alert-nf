@@ -1,0 +1,21 @@
+{
+    "name": "atrisa/yii2-",
+    "description": "Widget Alert Twitter bootstrap for Yii Framework 2",
+    "type": "yii2-extension",
+    "keywords": ["yii2","extension","alert"],
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Atrisa Endya",
+            "email": "atrisaendya@gmail.com"
+        }
+    ],
+    "require": {
+        "yiisoft/yii2": "~2.0.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "atrisa\\alert\\": ""
+        }
+    }
+}
