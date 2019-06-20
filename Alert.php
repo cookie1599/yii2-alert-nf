@@ -39,7 +39,7 @@ class Alert extends \yii\bootstrap\Widget
             echo Yii::$app->session->getFlash('success');
             echo '</div>';
         } else if (Yii::$app->session->hasFlash('error')) {
-            echo '<div class='alert alert-danger">';
+            echo '<div class="alert alert-danger">';
             echo Yii::$app->session->getFlash('error');
             echo '</div>';
         }
