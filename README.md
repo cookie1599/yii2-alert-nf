@@ -10,13 +10,13 @@ The preferred way to install this extension is through [composer](http://getcomp
 Either run
 
 ```
-php composer.phar require --prefer-dist atrisa/yii2- "*"
+php composer.phar require --prefer-dist atrisa/yii2-alert-nf "*"
 ```
 
 or add
 
 ```
-"atrisa/yii2-": "*"
+"atrisa/yii2-alert-nf": "*"
 ```
 
 to the require section of your `composer.json` file.
